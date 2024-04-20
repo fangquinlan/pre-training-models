@@ -1,7 +1,7 @@
 
 # T2T-BinFormer Pre-trained Model
 
-This repository hosts the pre-trained model for T2T-BinFormer, an experimental approach to image processing using Transformer models. The project is a beginner's attempt to delve into computer science and image processing. As I am still new to this field, there might be some errors in the implementation.
+The project is a beginner's attempt to delve into computer science and image processing. As I am still new to this field, there might be some errors in the implementation.
 
 ## Model Link
 
