@@ -1,8 +1,6 @@
 
 # T2T-BinFormer Pre-trained Model
 
-The project is a beginner's attempt to delve into computer science and image processing. As I am still new to this field, there might be some errors in the implementation.
-
 ## Model Link
 
 You can download the pre-trained model from Google Drive: [T2T-BinFormer Model](https://drive.google.com/file/d/1e6cmnE_7z9hwJe3A_xYsoXYOP2cbAJtH/view).
