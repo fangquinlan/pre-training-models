@@ -5,9 +5,7 @@
 
 You can download the pre-trained model from Google Drive: [T2T-BinFormer Model](https://drive.google.com/file/d/1e6cmnE_7z9hwJe3A_xYsoXYOP2cbAJtH/view).
 
-## Usage
-
-### Pre-processing Data
+## Pre-processing Data
 
 To preprocess the data, run the following command with the appropriate parameters:
 
@@ -15,7 +13,7 @@ To preprocess the data, run the following command with the appropriate parameter
 python process_dibco2.py --data_path /path/ --split_size 256 --testing_dataset 2018 --validation_dataset 2016
 ```
 
-### Training the Model
+## Training the Model
 
 To train the model with specified parameters, use the command below:
 
