@@ -14,7 +14,7 @@ You can download the pre-trained model from Google Drive: [T2T-BinFormer Model](
 To preprocess the data, run the following command with the appropriate parameters:
 
 ```bash
-python process_dibco2.py --data_path /root/autodl-tmp/T2T-BinFormer/ --split_size 256 --testing_dataset 2018 --validation_dataset 2016
+python process_dibco2.py --data_path /path/ --split_size 256 --testing_dataset 2018 --validation_dataset 2016
 ```
 
 ### Training the Model
@@ -22,7 +22,7 @@ python process_dibco2.py --data_path /root/autodl-tmp/T2T-BinFormer/ --split_siz
 To train the model with specified parameters, use the command below:
 
 ```bash
-python train2.py --data_path /root/autodl-tmp/T2T-BinFormer/ --batch_size 32 --vit_model_size base --vit_patch_size 16 --epochs 1000 --split_size 256 --validation_dataset 2016
+python train2.py --data_path /path/ --batch_size 32 --vit_model_size base --vit_patch_size 16 --epochs 1000 --split_size 256 --validation_dataset 2016
 ```
 
 ## Results
