@@ -7,15 +7,6 @@ This repository hosts the pre-trained model for T2T-BinFormer, an experimental a
 
 You can download the pre-trained model from Google Drive: [T2T-BinFormer Model](https://drive.google.com/file/d/1e6cmnE_7z9hwJe3A_xYsoXYOP2cbAJtH/view).
 
-## Installation
-
-Clone this repository to your local machine using:
-
-```bash
-git clone https://github.com/RisabBiswas/T2T-BinFormer.git
-cd T2T-BinFormer
-```
-
 ## Usage
 
 ### Pre-processing Data
@@ -36,7 +27,7 @@ python train2.py --data_path /root/autodl-tmp/T2T-BinFormer/ --batch_size 32 --v
 
 ## Results
 
-The PSNR (Peak Signal-to-Noise Ratio) results can be viewed in the `Figure_1.png` file located in this directory.
+![Figure 1](Figure_1.png)
 
 ## Acknowledgements
 
